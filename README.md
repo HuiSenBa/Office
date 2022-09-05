@@ -1,1 +1,3 @@
-# Office
+点击Setup下载Office2019
+下好之后别关闭Office
+使用KMS激活
